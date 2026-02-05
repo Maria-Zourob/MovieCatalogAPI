@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "YIh7fBcdkNm23Jidprts96dyecJZdvANNHm1R0q5xc4=",
+  "Source": "Asp_FinalProject",
+  "BasePath": "_content/Asp_FinalProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Asp_FinalProject\\wwwroot",
+      "Source": "Asp_FinalProject",
+      "ContentRoot": "C:\\Users\\awadallah\\Desktop\\WebDevelpment2\\Asp_FinalProject\\wwwroot\\",
+      "BasePath": "_content/Asp_FinalProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\awadallah\\Desktop\\WebDevelpment2\\Asp_FinalProject\\wwwroot\\posters\\55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg",
+      "SourceId": "Asp_FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\awadallah\\Desktop\\WebDevelpment2\\Asp_FinalProject\\wwwroot\\",
+      "BasePath": "_content/Asp_FinalProject",
+      "RelativePath": "posters/55da6576-3ca7-4e04-be6d-5a669d6e6121#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vx1ko7b5w1",
+      "Integrity": "08rQmFzIGsAFsHf5ogI5knyv1rA5A6qGCAzrr6EG9Q8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\posters\\55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "posters/55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg",
+      "AssetFile": "C:\\Users\\awadallah\\Desktop\\WebDevelpment2\\Asp_FinalProject\\wwwroot\\posters\\55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"08rQmFzIGsAFsHf5ogI5knyv1rA5A6qGCAzrr6EG9Q8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-08rQmFzIGsAFsHf5ogI5knyv1rA5A6qGCAzrr6EG9Q8="
+        }
+      ]
+    },
+    {
+      "Route": "posters/55da6576-3ca7-4e04-be6d-5a669d6e6121.vx1ko7b5w1.jpg",
+      "AssetFile": "C:\\Users\\awadallah\\Desktop\\WebDevelpment2\\Asp_FinalProject\\wwwroot\\posters\\55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"08rQmFzIGsAFsHf5ogI5knyv1rA5A6qGCAzrr6EG9Q8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vx1ko7b5w1"
+        },
+        {
+          "Name": "label",
+          "Value": "posters/55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-08rQmFzIGsAFsHf5ogI5knyv1rA5A6qGCAzrr6EG9Q8="
+        }
+      ]
+    }
+  ]
+}

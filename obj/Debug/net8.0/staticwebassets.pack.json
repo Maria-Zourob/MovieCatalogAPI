@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\awadallah\\Desktop\\WebDevelpment2\\Asp_FinalProject\\wwwroot\\posters\\55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg",
+      "PackagePath": "staticwebassets\\posters\\55da6576-3ca7-4e04-be6d-5a669d6e6121.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Asp_FinalProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Asp_FinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Asp_FinalProject.props",
+      "PackagePath": "build\\Asp_FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Asp_FinalProject.props",
+      "PackagePath": "buildMultiTargeting\\Asp_FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Asp_FinalProject.props",
+      "PackagePath": "buildTransitive\\Asp_FinalProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
